@@ -61,9 +61,10 @@ frameworks like Flask, FastAPI and Django to implementing complex system archite
 ![Redis](https://img.shields.io/badge/Redis-a12627?style=flat-square&logo=redis&logoColor=white)
 ![Memcache](https://img.shields.io/badge/Memcache-a12627?style=flat-square&logo=memory&logoColor=white)
 
-#### Streaming / Periodic Tasks
+#### Tools & Software
 
 ![Celery](https://img.shields.io/badge/Celery-F7DF1E?style=flat-square&logo=Celery&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F7DF1E?style=flat-square&logo=Grafana&logoColor=black)
 
 #### Development
 
@@ -71,4 +72,8 @@ frameworks like Flask, FastAPI and Django to implementing complex system archite
 ![Webstorm](https://img.shields.io/badge/WebStorm-%23007ACC?style=flat-square&logo=webstorm&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23007ACC?style=flat-square&logo=pycharm&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/DataGrip-%23007ACC?style=flat-square&logo=datagrip&logoColor=white)
+![Adminer](https://img.shields.io/badge/Adminer-%23007ACC?style=flat-square&logo=adminer&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23007ACC?style=flat-square&logo=linux&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-%23007ACC?style=flat-square&logo=terminal&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23007ACC?style=flat-square&logo=bash&logoColor=white)
