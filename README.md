@@ -31,6 +31,10 @@ frameworks like Flask, FastAPI and Django to implementing complex system archite
 
 #### JavaScript
 
+I have expertise in JavaScript and TypeScript. 
+I specialize in building modern web applications using React.js, Next.js. Browser and Node.js environments. 
+My UI toolkit includes Material UI and Bootstrap, while Vite serves as my preferred build tool and testing framework setup.
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
@@ -41,6 +45,12 @@ frameworks like Flask, FastAPI and Django to implementing complex system archite
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 #### Containerization / Archestration / DevOps / CICD
+
+🐳 Docker enthusiast here! I specialize in containerization using Docker, 
+crafting Dockerfiles, and orchestrating with Docker Compose. 
+Familiar with Kubernetes for scalable container management. 
+Vagrant is my go-to for creating reproducible development environments.
+Used Helm charts in my work.
 
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0CC1F3?style=flat-square&logo=kubernetes&logoColor=white)
@@ -65,6 +75,8 @@ frameworks like Flask, FastAPI and Django to implementing complex system archite
 
 ![Celery](https://img.shields.io/badge/Celery-F7DF1E?style=flat-square&logo=Celery&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F7DF1E?style=flat-square&logo=Grafana&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-F7DF1E?style=flat-square&logo=Prometheus&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-F7DF1E?style=flat-square&logo=Kafka&logoColor=black)
 
 #### Development
 
