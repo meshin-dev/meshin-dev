@@ -9,7 +9,7 @@ Nice to see you! <img src="https://emojis.slackmojis.com/emojis/images/153184943
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshin/) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitri.meshin@gmail.com)
 [![Proton](https://img.shields.io/badge/Proton%20Mail-%23EA4335?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:meshin@pm.me)
-[![Telegram](https://img.shields.io/badge/Telegram-0CC1F3?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/meshindev)
+[![Telegram](https://img.shields.io/badge/Telegram-0CC1F3?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/meshin_dev)
 
 ## Technological stack
 
@@ -89,3 +89,9 @@ Used Helm charts in my work.
 ![Linux](https://img.shields.io/badge/Linux-%23007ACC?style=flat-square&logo=linux&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-%23007ACC?style=flat-square&logo=terminal&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23007ACC?style=flat-square&logo=bash&logoColor=white)
+
+## Stats
+
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=meshin-dev&theme=solarized-light&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=meshin-dev&theme=solarized-light&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meshin-dev&theme=solarized-light&show_icons=true&hide_border=true&layout=compact)
