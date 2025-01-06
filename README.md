@@ -28,6 +28,7 @@ Some useful resources for ma brothers:
 - [Parallelism in Go](https://github.com/b055/books-1)
 - [22 Free Go EBooks](https://www.getfreeebooks.com/22-free-go-programming-ebooks/)
 - [100 Go mistakes and how to avoid them](https://100go.co/)
+- [Full list of available Go books](https://github.com/dariubs/GoBooks?tab=readme-ov-file)
 
 #### Python
 
