@@ -17,6 +17,17 @@ In the following sections, you'll find a showcase of my expertise in cutting-edg
 I specialize in advanced Python and TypeScript development, leveraging these languages for intricate software solutions. 
 Additionally, I bring proficiency in the dynamic field of Cryptocurrency and Blockchain.
 
+#### Go
+
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+
+I love Go, write on in a lot, mostly APIs, different workers, processors, intensively using parallelism.
+
+Some useful resources for ma brothers:
+
+- [Parallelism in Go](https://github.com/b055/books-1)
+- [22 Free Go EBooks](https://www.getfreeebooks.com/22-free-go-programming-ebooks/)
+- [100 Go mistakes and how to avoid them](https://100go.co/)
 
 #### Python
 
