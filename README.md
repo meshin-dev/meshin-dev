@@ -2,6 +2,12 @@
 
 Nice to see you! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
+<img src="https://komarev.com/ghpvc/?username=meshin-dev&color=brightgreen" alt="watching_count" /> <img src="https://visitor-badge.laobi.icu/badge?page_id=meshin-dev.meshin-dev" alt="watching_count" />
+
+<img src="https://widgetbite.com/stats/1a9876e5-f135-449f-a341-23816734e7ed" alt="watching_count" />
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## Contact with me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshin/) 
@@ -102,8 +108,10 @@ Used Helm charts in my work.
 
 ## Stats
 
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=meshin-dev&theme=solarized-light&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meshin-dev&theme=solarized-light&hide_border=true)](https://git.io/streak-stats)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=meshin-dev&theme=solarized-light&show_icons=true&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meshin-dev&theme=solarized-light&show_icons=true&hide_border=true&layout=compact)
+
+<img src="https://github-profile-trophy.vercel.app/?username=meshin-dev&theme=juicyfresh&no-bg=true" />
