@@ -4,8 +4,6 @@ Nice to see you! <img src="https://emojis.slackmojis.com/emojis/images/153184943
 
 <img src="https://komarev.com/ghpvc/?username=meshin-dev&color=brightgreen" alt="watching_count" /> <img src="https://visitor-badge.laobi.icu/badge?page_id=meshin-dev.meshin-dev" alt="watching_count" />
 
-<img src="https://widgetbite.com/stats/1a9876e5-f135-449f-a341-23816734e7ed" alt="watching_count" />
-
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Contact with me
